@@ -43,14 +43,14 @@ To activate:
 source .venv/bin/activate
 ```
 
-3. Install Required Dependencies
+### 3. Install Required Dependencies
 Install your required libraries (e.g., for MCP and inspector logic). You can do this using:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Run the MCP Inspector
+### 4. Run the MCP Inspector
 Once everything is set up, you can run the Model Context Protocol Inspector with:
 
 ```bash
