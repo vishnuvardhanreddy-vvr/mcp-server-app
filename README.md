@@ -72,6 +72,9 @@ mcp-server-app/
 └── README.md
 ```
 
+### UI Example
+![mcp-server-app-ui](https://raw.githubusercontent.com/vishnuvardhanreddy-vvr/mcp-server-app/refs/heads/main/mcp-server-app-ui.png)
+
 ### 🛠 Development Tips
 
 Add dev tools to pyproject.toml or install with uv pip install as needed.
